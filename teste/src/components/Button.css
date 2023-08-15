@@ -1,0 +1,21 @@
+.storybook-button--primary {
+  background-color: blue;
+  color: white;
+}
+
+.storybook-button--secondary {
+  background-color: red;
+}
+
+.small {
+  width: 200px;
+}
+
+.medium {
+  width: 600px;
+}
+
+.large {
+    width: 900px;
+  }
+  
